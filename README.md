@@ -1,12 +1,12 @@
 # Flex-minimal
 
-Unleash full power of Flex using easy-to-remember class names
+Unleash full power of [Flex](https://developer.mozilla.org/en/docs/Web/CSS/flex) using easy-to-remember class names
 
-# Usage:
+## Usage:
 
-Import `flex(.min).css` directly or build `flex.scss` yourself.
+Import `flex(.min).css` directly, or build `flex.scss` with your project's build procedure.
 
-`flex(.min).css` are vendor-prefixed using latest 2 version of browsers.
+*`flex(.min).css` are vendor-prefixed using latest 2 version of browsers.*
 
 ## 1. Container properties
 
@@ -22,7 +22,7 @@ Import `flex(.min).css` directly or build `flex.scss` yourself.
 
 `.fx-nowrap`
 
-### **M**ain-axis alignment *(justify-content)*
+### (M)ain-axis alignment *(justify-content)*
 
 `.fx-m-start`
 
@@ -34,7 +34,7 @@ Import `flex(.min).css` directly or build `flex.scss` yourself.
 
 `.fx-m-around`
 
-### **C**ross-axis alignment *(align-items)*
+### (C)ross-axis alignment *(align-items)*
 
 `.fx-c-stretch`
 
@@ -46,7 +46,7 @@ Import `flex(.min).css` directly or build `flex.scss` yourself.
 
 `.fx-c-baseline`
 
-### **C**ross-axis **L**ines alignment *(align-content)*
+### (C)ross-axis (L)ines alignment *(align-content)*
 
 `.fx-cl-stretch`
 
@@ -63,7 +63,7 @@ Import `flex(.min).css` directly or build `flex.scss` yourself.
 
 ## 2. Children properties
 
-### **O**rder (order)
+### (O)rder (order)
 
 `.fx-o-1`
 
@@ -92,7 +92,7 @@ Import `flex(.min).css` directly or build `flex.scss` yourself.
 
 `.fx-6`
 
-### **S**elf alignment inside a flexbox *(align-self)*
+### (S)elf alignment inside a flexbox *(align-self)*
 
 `.fx-s-stretch`
 
