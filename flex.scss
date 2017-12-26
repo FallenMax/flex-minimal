@@ -2,7 +2,6 @@
  * A simple Flex wrapper
  **/
 
-
 /**
  * 1.Properties for containers
  */
@@ -50,7 +49,7 @@
 
 // 1.4 alignment for (C)ross-axis
 .fx-c-stretch {
-  align-items: flex-stretch;
+  align-items: stretch;
 }
 
 .fx-c-start {
@@ -66,7 +65,7 @@
 }
 
 .fx-c-baseline {
-  align-items: flex-baseline;
+  align-items: baseline;
 }
 
 // 1.5 alignment for (C)ross-axis (L)ines (multiple)
@@ -93,7 +92,6 @@
 .fx-cl-around {
   align-content: space-around;
 }
-
 
 /**
  * 2. Properties for child element
@@ -134,7 +132,6 @@
 .fx-s-baseline {
   align-self: baseline;
 }
-
 
 /**
  * 3. a few commonly used shortcuts!

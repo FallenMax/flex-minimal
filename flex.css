@@ -45,8 +45,8 @@
   justify-content: space-around; }
 
 .fx-c-stretch {
-  -ms-flex-align: flex-stretch;
-  align-items: flex-stretch; }
+  -ms-flex-align: stretch;
+  align-items: stretch; }
 
 .fx-c-start {
   -ms-flex-align: start;
@@ -61,8 +61,8 @@
   align-items: flex-end; }
 
 .fx-c-baseline {
-  -ms-flex-align: flex-baseline;
-  align-items: flex-baseline; }
+  -ms-flex-align: baseline;
+  align-items: baseline; }
 
 .fx-cl-stretch {
   -ms-flex-line-pack: stretch;
