@@ -9,7 +9,7 @@
     "node-sass": "^3.13.0"
   },
   "name": "flex-minimal",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
